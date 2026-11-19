@@ -1,9 +1,0 @@
-E:\abo hadhoud\19 - Full project\DVLS\Program\BusinessLayer\bin\Debug\BusinessLayer.dll
-E:\abo hadhoud\19 - Full project\DVLS\Program\BusinessLayer\bin\Debug\BusinessLayer.pdb
-E:\abo hadhoud\19 - Full project\DVLS\Program\BusinessLayer\bin\Debug\DataAccessLayer.dll
-E:\abo hadhoud\19 - Full project\DVLS\Program\BusinessLayer\bin\Debug\DataAccessLayer.pdb
-E:\abo hadhoud\19 - Full project\DVLS\Program\BusinessLayer\obj\Debug\BusinessLayer.csproj.AssemblyReference.cache
-E:\abo hadhoud\19 - Full project\DVLS\Program\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
-E:\abo hadhoud\19 - Full project\DVLS\Program\BusinessLayer\obj\Debug\Business.EA331CBA.Up2Date
-E:\abo hadhoud\19 - Full project\DVLS\Program\BusinessLayer\obj\Debug\BusinessLayer.dll
-E:\abo hadhoud\19 - Full project\DVLS\Program\BusinessLayer\obj\Debug\BusinessLayer.pdb

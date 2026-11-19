@@ -1,6 +1,0 @@
-E:\abo hadhoud\19 - Full project\DVLS\Program\DataAccessLayer\bin\Debug\DataAccessLayer.dll
-E:\abo hadhoud\19 - Full project\DVLS\Program\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
-E:\abo hadhoud\19 - Full project\DVLS\Program\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
-E:\abo hadhoud\19 - Full project\DVLS\Program\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
-E:\abo hadhoud\19 - Full project\DVLS\Program\DataAccessLayer\obj\Debug\DataAccessLayer.dll
-E:\abo hadhoud\19 - Full project\DVLS\Program\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
