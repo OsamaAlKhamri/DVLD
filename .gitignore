@@ -9,8 +9,8 @@
 *.userosscache
 *.sln.docstates
 *.userprefs
-*.vs/
-*.vscode/
+.vs/
+.vscode/
 
 # Build results and logs
 *.dll
